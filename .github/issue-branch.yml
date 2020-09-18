@@ -1,0 +1,13 @@
+mode: chatops
+branchName: full
+branches:
+  - label: enhancement
+    name: development
+  - label: ui
+    name: development
+  - label: feature
+    name: development
+  - label: bug
+    name: development
+  - label: structure
+    name: development
